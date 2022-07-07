@@ -23,3 +23,10 @@ body {
   height: 200px;
   font-size: 80px;
 }
+#display {
+  background-color: darkblue;
+  color: white;
+  font-size: 100px;
+  width: 500px;
+  margin-top: 20px;
+}
